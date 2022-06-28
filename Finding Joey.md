@@ -9,8 +9,10 @@ ictf{XXXXXXX_Town_Bus_Station}
 
 ### Solution
 Given is a png file with a city in it.
-![alttext](./f
-Findin out the city was the easy part.Giving you the flag
+
+![alttext](./findingjoey/city.png)
+
+Finding out the city was the easy part,giving you the flag
 
 ictf{Canning_Town_Bus_Station}
 
