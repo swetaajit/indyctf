@@ -9,7 +9,7 @@ Author : JB
 Flag Format:
 ictf{flag-allcaps_nospace}
 
-### solution 
+### SOLUTION
 
 The following file has to be downloaded
 <a href= "https://raw.githubusercontent.com/swetaajit/indyctf/main/Dots%26Dashes/swetha.mp3">challengefile.mp3.</a>
@@ -19,10 +19,11 @@ This morse code  audio file is then decoded .After decoding it looks something l
 ![alttext](./Dots&Dashes/dotsanddashes.png)
 
 
-From this one could decrypt the flag 
+From this one could decrypt the flag .
+
 The flag being
 R1CKR0113DONMRS3
 
-###
+### FLAG
 ICTF{R1CKR0113DONMRS3}
 
