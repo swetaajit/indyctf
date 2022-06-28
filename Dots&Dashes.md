@@ -12,4 +12,6 @@ ictf{flag-allcaps_nospace}
 ### solution 
 
 The following file has to be downloaded
-<a href= "https://raw.githubusercontent.com/swetaajit/indyctf/main/Dots%26Dashes/swetha.mp3">morsce code .</a>
+<a href= "https://raw.githubusercontent.com/swetaajit/indyctf/main/Dots%26Dashes/swetha.mp3">challengefile.mp3.</a>
+
+This morse code  audio file is then decoded .After decoding it looks something like this.
