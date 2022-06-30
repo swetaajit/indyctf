@@ -16,7 +16,8 @@ The following file has to be downloaded
 
 This morse code  audio file is then decoded .After decoding it looks something like this.
 
-![alttext](./Dots&Dashes/dotsanddashes.png)
+![image](https://user-images.githubusercontent.com/92258994/176673089-60169eac-7bcd-4c92-a021-a59b7d550fd9.png)
+
 
 
 From this one could decrypt the flag .
