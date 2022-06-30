@@ -10,7 +10,8 @@ ictf{XXXXXXX_Town_Bus_Station}
 ### Solution
 Given is a png file with a city in it.
 
-![alttext](./findingjoey/city.png)
+![image](https://user-images.githubusercontent.com/92258994/176674303-d44de7fa-f169-41f7-9556-811efea80893.png)
+
 
 Finding out the city was the easy part,giving you the flag
 
