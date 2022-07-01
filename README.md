@@ -21,7 +21,9 @@
 
 ## MISC
 [IRC](https://github.com/swetaajit/indyctf/blob/main/IRC.md)
+
 Sanity Check -1
+
 Sanity Check -2
 
 ## HARDWARE 
