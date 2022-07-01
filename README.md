@@ -11,13 +11,16 @@
 ## WEB
 [Inspeccionar_y_disfrutar](https://github.com/swetaajit/indyctf/tree/main/Inspeccionar_y_disfrutar)
 
+
 ## WIRELESS
 [Dots&Dashes](https://github.com/swetaajit/indyctf/blob/main/Dots%26Dashes.md)
 
 [4chans's favourite](https://github.com/swetaajit/indyctf/blob/main/4chan's%20favorite/4chan's%20favorite.md)
 
+
 ## OSINT
 [Finding Joey](https://github.com/swetaajit/indyctf/blob/main/Finding%20Joey.md)
+
 
 ## MISC
 [IRC](https://github.com/swetaajit/indyctf/blob/main/IRC.md)
@@ -26,9 +29,11 @@ Sanity Check -1
 
 Sanity Check -2
 
+
 ## HARDWARE 
 [Noice_UART](https://github.com/swetaajit/indyctf/blob/main/Noice_UART.md)
 [Hello_Hardware](https://github.com/swetaajit/indyctf/tree/main/Hello_Hardware)
+
 
 ## REVERSING
 [Easy as you](https://github.com/swetaajit/indyctf/blob/main/Easy%20as%20you.md)
