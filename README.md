@@ -25,7 +25,7 @@
 ## MISC
 [IRC](https://github.com/swetaajit/indyctf/blob/main/IRC.md)
 
-Sanity Check -1
+[Sanity Check -1](https://github.com/swetaajit/indyctf/blob/main/Sanity%20Check%20-1.md)
 
 Sanity Check -2
 
