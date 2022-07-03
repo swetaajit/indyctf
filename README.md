@@ -27,7 +27,7 @@
 
 [Sanity Check -1](https://github.com/swetaajit/indyctf/blob/main/Sanity%20Check%20-1.md)
 
-Sanity Check -2
+[Sanity Check -2](https://github.com/swetaajit/indyctf/blob/main/Sanity%20Check%20-2.md)
 
 
 ## HARDWARE 
